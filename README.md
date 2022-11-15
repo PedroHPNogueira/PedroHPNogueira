@@ -37,7 +37,4 @@
 </div>
 
 
----
 
-
-![Snake animation](https://github.com/PedroHPNogueira/PedroHPNogueira/blob/output/github-contribution-grid-snake.svg)
